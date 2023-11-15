@@ -51,7 +51,7 @@ h1 {
   text-justify: inter-word;
   margin: 0 10%;
   font-size: 21px;
-  text-align: center;
+  text-align: left;
 }
 
 .image-container {
@@ -63,12 +63,3 @@ h1 {
   margin: 0 10px;
 }
 
-p6 {
-  font-size: 30px;
-  color: #ac3520;
-}
-
-p7 {
-  font-size: 40px;
-  color: #ff8809;
-}
