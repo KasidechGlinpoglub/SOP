@@ -56,7 +56,10 @@ h1 {
 
 .image-container {
   text-align: center;
+  width: 300px;
+  height: auto; 
 }
+
 
 .image-container img {
   display: inline-block;
