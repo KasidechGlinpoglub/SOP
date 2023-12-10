@@ -1,7 +1,9 @@
 .image-container img {
-  width: 300px;
+  width: 500px;
+  height: auto;
   animation: float 6s ease-out infinite;
   animation-fill-mode: forwards;
+  text-align: center;
 }
 
 @keyframes fadeInUp {
@@ -56,13 +58,10 @@ h1 {
 
 .image-container {
   text-align: center;
-  width: 300px;
-  height: auto; 
+  width: 500px;
+  height: 100px;
 }
 
-
-.image-container img {
-  display: inline-block;
-  margin: 0 10px;
+.highlight {
+  color: #ff8809; 
 }
-
