@@ -1,5 +1,5 @@
 .image-container img {
-  width: 550px;
+  width: 500px;
   height: auto;
   animation: float 6s ease-out infinite;
   animation-fill-mode: forwards;
